@@ -1,4 +1,4 @@
-# 一些RabbitMQ学习过程中练手的程序。
+# RabbitMQ实践
 
 - Spring整合RabbitMQ
 - SpringBoot整合RabbitMQ
